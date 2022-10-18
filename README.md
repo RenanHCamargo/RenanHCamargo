@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou trabalhando em **Datasets aleatórios no qual eu consiga mostrar meu conhecimento sobre análise de dados;**
-- 🌱 Atualmente estou aperfeiçoando meu conhecimento sobre **Análise de dados, linguagem de programação, estatísticas;**
+- 🌱 Estou aperfeiçoando meu conhecimento sobre **Análise de dados, linguagem de programação, estatísticas;**
 - 👯 Estou procurando colaborar em **Projetos que envolva análise de dados, qualidade de dados e tratamento de dados;**
 - 📫 Como me encontrar **renancamargo@outlook.com;**
 - 📄 Saiba mais sobre minha experiência profissional [https://www.linkedin.com/in/renan-henrique-de-camargo-69748a173/](https://www.linkedin.com/in/renan-henrique-de-camargo-69748a173/)
